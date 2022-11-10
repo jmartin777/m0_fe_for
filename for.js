@@ -5,11 +5,10 @@
 // Use a for statement to log to the console all even numbers between 25 and 75.
 
 
-
 // Challenge 2
 // Use a for statement to log to the console a complete sentence stating the weather using the Array below:
-var weather_options = ["sunny", "snowy", "freezing", "partly cloudy", "drizzly"]
 
+var weather_options = ["sunny", "snowy", "freezing", "partly cloudy", "drizzly"]
 
 // Challenge 3
 // Use a for statement to log to the console only the words that are exactly 3 characters in length
